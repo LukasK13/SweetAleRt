@@ -1,0 +1,10 @@
+Package: SweetAleRt
+Type: Package
+Title: Create alerts using the SweetAlert library.
+Version: 0.1.0
+Author: Lukas Klass
+Maintainer: Lukas Klass <a@a.a>
+Description: Create alerts using the SweetAlert library.
+License: None
+Encoding: UTF-8
+LazyData: true
